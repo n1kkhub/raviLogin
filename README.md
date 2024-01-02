@@ -1,7 +1,6 @@
 bcnbdc
 csc absabsa
 cbsa nb nb
-san bn
-fbdnsbdsnb
+san bb
 vbdnsab
 use it da
