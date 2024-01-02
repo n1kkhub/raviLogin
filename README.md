@@ -4,5 +4,4 @@ cbsa nb nb
 san bn
 fbdnsbdsnb
 vbdnsab
-bc bdc dnbs ca
-nvbndsv sn
+use it da
