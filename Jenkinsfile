@@ -4,7 +4,6 @@ pipeline {
         stage('checkout'){
             steps{
                 checkout scmGit(branches: [[name: '*/master']], extensions: [], userRemoteConfigs: [[credentialsId: '47abb2dd-15e2-4c1d-9348-37cd39fa026d', url: 'https://github.com/n1kkhub/raviLogin.git']])
-                echo 'Hello World'
             }
         }    
         stage('validate'){
